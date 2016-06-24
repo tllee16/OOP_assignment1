@@ -106,4 +106,8 @@ Adds the submit and clear buttons to the theButtons container then adds that con
 ![Submit and clear pic](http://i.imgur.com/UKwtJIQ.png)
 
 
-![Registration System](http://i.imgur.com/TdEzSgV.png)
+![Creates and makes visible code](http://i.imgur.com/J18pu7a.png)
+
+Creates the frame and makes it visible.
+
+![Creates and makes visible pic](http://i.imgur.com/TdEzSgV.png)
